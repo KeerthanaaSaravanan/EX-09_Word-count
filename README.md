@@ -1,4 +1,4 @@
-# Word-count
+# EX-09: Word-count
 ## AIM:
 To write a python program for getting the word count from a text.
 ## EQUIPEMENT'S REQUIRED: 
